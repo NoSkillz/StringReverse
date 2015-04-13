@@ -2,6 +2,7 @@ __author__ = 'VerDe'
 
 string = input("Throw me a string: ")
 reversed_string = ""
+
 '''
 We pass through each letter in the string starting from it's last index, making our way towards the first index (0)
 We append each letter as we go through them to our blank string
